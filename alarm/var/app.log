@@ -1,0 +1,196 @@
+2016/08/30 14:41:05 cfg.go:81: read config file: cfg.json successfully
+2016/08/30 14:41:05 [1;34m[asm_amd64.s:2232][I] http server Running on 0.0.0.0:9912[0m
+2016/08/30 16:50:01 reader.go:72: ======>>>>
+2016/08/30 16:50:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[port:10000], TS:2016-08-30 16:50:00>
+2016/08/30 16:50:43 reader.go:72: ======>>>>
+2016/08/30 16:50:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[port:10000], TS:2016-08-30 16:50:00>
+2016/08/30 16:55:01 reader.go:72: ======>>>>
+2016/08/30 16:55:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:2, PushedTags:map[port:10000], TS:2016-08-30 16:55:00>
+2016/08/30 16:55:43 reader.go:72: ======>>>>
+2016/08/30 16:55:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:2, PushedTags:map[port:10000], TS:2016-08-30 16:55:00>
+2016/08/30 16:55:47 reader.go:72: ======>>>>
+2016/08/30 16:55:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[port:10000], TS:2016-08-30 16:55:00>
+2016/08/30 17:00:01 reader.go:72: ======>>>>
+2016/08/30 17:00:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:3, PushedTags:map[port:10000], TS:2016-08-30 17:00:00>
+2016/08/30 17:00:43 reader.go:72: ======>>>>
+2016/08/30 17:00:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:3, PushedTags:map[port:10000], TS:2016-08-30 17:00:00>
+2016/08/30 17:00:47 reader.go:72: ======>>>>
+2016/08/30 17:00:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:2, PushedTags:map[port:10000], TS:2016-08-30 17:00:00>
+2016/08/30 17:05:47 reader.go:72: ======>>>>
+2016/08/30 17:05:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10000], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:3, PushedTags:map[port:10000], TS:2016-08-30 17:05:00>
+2016/08/30 22:20:47 reader.go:72: ======>>>>
+2016/08/30 22:20:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[port:10001], TS:2016-08-30 22:20:00>
+2016/08/30 22:21:01 reader.go:72: ======>>>>
+2016/08/30 22:21:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[port:10001], TS:2016-08-30 22:21:00>
+2016/08/30 22:21:43 reader.go:72: ======>>>>
+2016/08/30 22:21:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[port:10001], TS:2016-08-30 22:21:00>
+2016/08/30 22:25:47 reader.go:72: ======>>>>
+2016/08/30 22:25:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:2, PushedTags:map[port:10001], TS:2016-08-30 22:25:00>
+2016/08/30 22:26:01 reader.go:72: ======>>>>
+2016/08/30 22:26:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:2, PushedTags:map[port:10001], TS:2016-08-30 22:26:00>
+2016/08/30 22:26:43 reader.go:72: ======>>>>
+2016/08/30 22:26:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:2, PushedTags:map[port:10001], TS:2016-08-30 22:26:00>
+2016/08/30 22:30:47 reader.go:72: ======>>>>
+2016/08/30 22:30:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:3, PushedTags:map[port:10001], TS:2016-08-30 22:30:00>
+2016/08/30 22:31:01 reader.go:72: ======>>>>
+2016/08/30 22:31:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:3, PushedTags:map[port:10001], TS:2016-08-30 22:31:00>
+2016/08/30 22:31:43 reader.go:72: ======>>>>
+2016/08/30 22:31:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:net.port.listen, Tags:map[port:10001], all(#3)==0 MaxStep:3, P0, 10000端口收工, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:3, PushedTags:map[port:10001], TS:2016-08-30 22:31:00>
+2016/08/31 14:26:43 reader.go:72: ======>>>>
+2016/08/31 14:26:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-08-31 14:26:00>
+2016/08/31 14:28:43 reader.go:72: ======>>>>
+2016/08/31 14:28:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[], TS:2016-08-31 14:28:00>
+2016/08/31 20:27:43 reader.go:72: ======>>>>
+2016/08/31 20:27:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.25126, CurrentStep:1, PushedTags:map[], TS:2016-08-31 20:27:00>
+2016/08/31 20:28:43 reader.go:72: ======>>>>
+2016/08/31 20:28:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0.49751, CurrentStep:1, PushedTags:map[], TS:2016-08-31 20:28:00>
+2016/08/31 23:27:43 reader.go:72: ======>>>>
+2016/08/31 23:27:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.24876, CurrentStep:1, PushedTags:map[], TS:2016-08-31 23:27:00>
+2016/08/31 23:28:43 reader.go:72: ======>>>>
+2016/08/31 23:28:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[], TS:2016-08-31 23:28:00>
+2016/09/01 02:26:43 reader.go:72: ======>>>>
+2016/09/01 02:26:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-01 02:26:00>
+2016/09/01 02:28:43 reader.go:72: ======>>>>
+2016/09/01 02:28:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0.49751, CurrentStep:1, PushedTags:map[], TS:2016-09-01 02:28:00>
+2016/09/01 05:27:43 reader.go:72: ======>>>>
+2016/09/01 05:27:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-01 05:27:00>
+2016/09/01 05:28:43 reader.go:72: ======>>>>
+2016/09/01 05:28:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#3)>=50 MaxStep:3, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0.5, CurrentStep:1, PushedTags:map[], TS:2016-09-01 05:28:00>
+2016/09/01 15:11:01 reader.go:72: ======>>>>
+2016/09/01 15:11:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-01 15:11:00>
+2016/09/01 15:11:43 reader.go:72: ======>>>>
+2016/09/01 15:11:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-01 15:11:00>
+2016/09/01 15:12:47 reader.go:72: ======>>>>
+2016/09/01 15:12:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-01 15:12:00>
+2016/09/01 15:17:47 reader.go:72: ======>>>>
+2016/09/01 15:17:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-01 15:17:00>
+2016/09/01 16:39:47 reader.go:72: ======>>>>
+2016/09/01 16:39:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-01 16:39:00>
+2016/09/02 11:12:47 reader.go:72: ======>>>>
+2016/09/02 11:12:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:13, Metric:disk.io.util, Tags:map[], all(#1)>=80 MaxStep:1, P0, , <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:100, CurrentStep:1, PushedTags:map[device:vda], TS:2016-09-02 11:12:00>
+2016/09/02 11:14:47 reader.go:72: ======>>>>
+2016/09/02 11:14:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:13, Metric:disk.io.util, Tags:map[], all(#1)>=80 MaxStep:1, P0, , <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[device:vda], TS:2016-09-02 11:14:00>
+2016/09/02 11:43:43 reader.go:72: ======>>>>
+2016/09/02 11:43:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongo], all(#1)==0 MaxStep:1, P0, , <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongo], TS:2016-09-02 11:43:00>
+2016/09/02 11:44:43 reader.go:72: ======>>>>
+2016/09/02 11:44:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:11, Metric:proc.num, Tags:map[name:redis], all(#1)==0 MaxStep:1, P0, , <Id:10, Name:proc.redis.alarm, ParentId:0, ActionId:9, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:redis], TS:2016-09-02 11:44:00>
+2016/09/02 11:44:43 reader.go:72: ======>>>>
+2016/09/02 11:44:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:10, Metric:proc.num, Tags:map[name:mysql], all(#1)==0 MaxStep:1, P0, , <Id:9, Name:proc.mysql.alarm, ParentId:0, ActionId:8, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mysql], TS:2016-09-02 11:44:00>
+2016/09/02 12:04:43 reader.go:72: ======>>>>
+2016/09/02 12:04:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:10, Metric:proc.num, Tags:map[name:/usr/sbin/mysqld], all(#1)==0 MaxStep:1, P0, , <Id:9, Name:proc.mysql.alarm, ParentId:0, ActionId:8, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:/usr/sbin/mysqld], TS:2016-09-02 12:04:00>
+2016/09/02 14:23:01 reader.go:72: ======>>>>
+2016/09/02 14:23:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongo], all(#1)==0 MaxStep:1, P0, , <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongo], TS:2016-09-02 14:23:00>
+2016/09/02 14:23:47 reader.go:72: ======>>>>
+2016/09/02 14:23:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongo], all(#1)==0 MaxStep:1, P0, , <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongo], TS:2016-09-02 14:23:00>
+2016/09/02 14:25:43 reader.go:72: ======>>>>
+2016/09/02 14:25:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-02 14:25:00>
+2016/09/02 14:33:47 reader.go:72: ======>>>>
+2016/09/02 14:33:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod], all(#1)==0 MaxStep:1, P0, , <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongod], TS:2016-09-02 14:33:00>
+2016/09/02 14:35:01 reader.go:72: ======>>>>
+2016/09/02 14:35:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:11, Metric:proc.num, Tags:map[name:redis-server], all(#1)==0 MaxStep:1, P0, , <Id:10, Name:proc.redis.alarm, ParentId:0, ActionId:9, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:redis-server], TS:2016-09-02 14:35:00>
+2016/09/02 14:35:43 reader.go:72: ======>>>>
+2016/09/02 14:35:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-02 14:35:00>
+2016/09/02 14:46:43 reader.go:72: ======>>>>
+2016/09/02 14:46:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:OK, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-02 14:46:00>
+2016/09/02 16:12:43 reader.go:72: ======>>>>
+2016/09/02 16:12:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-02 16:12:00>
+2016/09/02 22:12:47 reader.go:72: ======>>>>
+2016/09/02 22:12:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:12:00>
+2016/09/02 22:16:47 reader.go:72: ======>>>>
+2016/09/02 22:16:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.50495, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:16:00>
+2016/09/02 22:25:47 reader.go:72: ======>>>>
+2016/09/02 22:25:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:25:00>
+2016/09/02 22:29:47 reader.go:72: ======>>>>
+2016/09/02 22:29:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.75124, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:29:00>
+2016/09/02 22:37:47 reader.go:72: ======>>>>
+2016/09/02 22:37:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:37:00>
+2016/09/02 22:46:47 reader.go:72: ======>>>>
+2016/09/02 22:46:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.75124, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:46:00>
+2016/09/02 22:51:47 reader.go:72: ======>>>>
+2016/09/02 22:51:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:51:00>
+2016/09/02 22:54:47 reader.go:72: ======>>>>
+2016/09/02 22:54:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.5, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:54:00>
+2016/09/02 22:59:47 reader.go:72: ======>>>>
+2016/09/02 22:59:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-02 22:59:00>
+2016/09/02 23:04:47 reader.go:72: ======>>>>
+2016/09/02 23:04:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.75124, CurrentStep:1, PushedTags:map[], TS:2016-09-02 23:04:00>
+2016/09/02 23:34:47 reader.go:72: ======>>>>
+2016/09/02 23:34:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-02 23:34:00>
+2016/09/02 23:35:47 reader.go:72: ======>>>>
+2016/09/02 23:35:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.74874, CurrentStep:1, PushedTags:map[], TS:2016-09-02 23:35:00>
+2016/09/02 23:59:47 reader.go:72: ======>>>>
+2016/09/02 23:59:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.74627, CurrentStep:1, PushedTags:map[], TS:2016-09-02 23:59:00>
+2016/09/03 00:01:47 reader.go:72: ======>>>>
+2016/09/03 00:01:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.74874, CurrentStep:1, PushedTags:map[], TS:2016-09-03 00:01:00>
+2016/09/03 00:25:47 reader.go:72: ======>>>>
+2016/09/03 00:25:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 00:25:00>
+2016/09/03 00:26:47 reader.go:72: ======>>>>
+2016/09/03 00:26:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 00:26:00>
+2016/09/03 00:51:01 reader.go:72: ======>>>>
+2016/09/03 00:51:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:13, Metric:disk.io.util, Tags:map[], all(#1)>=80 MaxStep:1, P0, , <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:98.8, CurrentStep:1, PushedTags:map[device:xvda], TS:2016-09-03 00:51:00>
+2016/09/03 00:51:01 reader.go:72: ======>>>>
+2016/09/03 00:51:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:13, Metric:disk.io.util, Tags:map[], all(#1)>=80 MaxStep:1, P0, , <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:98.8, CurrentStep:1, PushedTags:map[device:xvda1], TS:2016-09-03 00:51:00>
+2016/09/03 00:52:01 reader.go:72: ======>>>>
+2016/09/03 00:52:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:OK, Strategy:<Id:13, Metric:disk.io.util, Tags:map[], all(#1)>=80 MaxStep:1, P0, , <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[device:xvda], TS:2016-09-03 00:52:00>
+2016/09/03 00:52:01 reader.go:72: ======>>>>
+2016/09/03 00:52:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:OK, Strategy:<Id:13, Metric:disk.io.util, Tags:map[], all(#1)>=80 MaxStep:1, P0, , <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[device:xvda1], TS:2016-09-03 00:52:00>
+2016/09/03 01:33:47 reader.go:72: ======>>>>
+2016/09/03 01:33:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-03 01:33:00>
+2016/09/03 01:35:47 reader.go:72: ======>>>>
+2016/09/03 01:35:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.25373, CurrentStep:1, PushedTags:map[], TS:2016-09-03 01:35:00>
+2016/09/03 01:41:47 reader.go:72: ======>>>>
+2016/09/03 01:41:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.25126, CurrentStep:1, PushedTags:map[], TS:2016-09-03 01:41:00>
+2016/09/03 01:43:47 reader.go:72: ======>>>>
+2016/09/03 01:43:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 01:43:00>
+2016/09/03 01:54:47 reader.go:72: ======>>>>
+2016/09/03 01:54:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 01:54:00>
+2016/09/03 02:04:47 reader.go:72: ======>>>>
+2016/09/03 02:04:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:04:00>
+2016/09/03 02:10:47 reader.go:72: ======>>>>
+2016/09/03 02:10:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.75377, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:10:00>
+2016/09/03 02:11:47 reader.go:72: ======>>>>
+2016/09/03 02:11:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.75124, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:11:00>
+2016/09/03 02:29:47 reader.go:72: ======>>>>
+2016/09/03 02:29:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:29:00>
+2016/09/03 02:34:47 reader.go:72: ======>>>>
+2016/09/03 02:34:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.75124, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:34:00>
+2016/09/03 02:43:47 reader.go:72: ======>>>>
+2016/09/03 02:43:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:43:00>
+2016/09/03 02:48:47 reader.go:72: ======>>>>
+2016/09/03 02:48:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:49.75124, CurrentStep:1, PushedTags:map[], TS:2016-09-03 02:48:00>
+2016/09/03 03:25:47 reader.go:72: ======>>>>
+2016/09/03 03:25:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50, CurrentStep:1, PushedTags:map[], TS:2016-09-03 03:25:00>
+2016/09/03 03:27:47 reader.go:72: ======>>>>
+2016/09/03 03:27:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:48.5, CurrentStep:1, PushedTags:map[], TS:2016-09-03 03:27:00>
+2016/09/03 03:34:47 reader.go:72: ======>>>>
+2016/09/03 03:34:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:50.25126, CurrentStep:1, PushedTags:map[], TS:2016-09-03 03:34:00>
+2016/09/03 03:36:47 reader.go:72: ======>>>>
+2016/09/03 03:36:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:OK, Strategy:<Id:1, Metric:cpu.user, Tags:map[], all(#5)>=50 MaxStep:1, P0, CPU用户使用过高, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[], TS:2016-09-03 03:36:00>
+2016/09/04 11:50:47 reader.go:72: ======>>>>
+2016/09/04 11:50:47 reader.go:73: <Endpoint:iZ25rv3eh5bZ, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod1], all(#1)==0 MaxStep:1, P0, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongod1], TS:2016-09-04 11:50:00>
+2016/09/04 11:51:43 reader.go:72: ======>>>>
+2016/09/04 11:51:43 reader.go:73: <Endpoint:iZ94pzdcad9Z, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod1], all(#1)==0 MaxStep:1, P0, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongod1], TS:2016-09-04 11:51:00>
+2016/09/04 11:52:01 reader.go:72: ======>>>>
+2016/09/04 11:52:01 reader.go:73: <Endpoint:iZ2532uy3y6Z, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod1], all(#1)==0 MaxStep:1, P0, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongod1], TS:2016-09-04 11:52:00>
+2016/09/05 09:11:46 reader.go:72: ======>>>>
+2016/09/05 09:11:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod], all(#1)==0 MaxStep:1, P3, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongod], TS:2016-09-05 09:11:00>
+2016/09/05 09:12:46 reader.go:72: ======>>>>
+2016/09/05 09:12:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-05 09:12:00>
+2016/09/05 09:13:46 reader.go:72: ======>>>>
+2016/09/05 09:13:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:OK, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-05 09:13:00>
+2016/09/05 09:45:46 reader.go:72: ======>>>>
+2016/09/05 09:45:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:PROBLEM, Strategy:<Id:3, Metric:proc.num, Tags:map[name:top], all(#1)==0 MaxStep:1, P0, top进程关闭, <Id:1, Name:test.templates, ParentId:0, ActionId:1, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:top], TS:2016-09-05 09:45:00>
+2016/09/05 09:55:46 reader.go:72: ======>>>>
+2016/09/05 09:55:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:OK, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod], all(#1)==0 MaxStep:1, P3, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:mongod], TS:2016-09-05 09:55:00>
+2016/09/05 09:58:46 reader.go:72: ======>>>>
+2016/09/05 09:58:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:PROBLEM, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod], all(#1)==0 MaxStep:1, P3, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mongod], TS:2016-09-05 09:58:00>
+2016/09/05 09:59:46 reader.go:72: ======>>>>
+2016/09/05 09:59:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:OK, Strategy:<Id:9, Metric:proc.num, Tags:map[name:mongod], all(#1)==0 MaxStep:1, P3, Mongo挂了, <Id:8, Name:proc.mongodb.alarm, ParentId:0, ActionId:7, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:mongod], TS:2016-09-05 09:59:00>
+2016/09/05 10:12:46 reader.go:72: ======>>>>
+2016/09/05 10:12:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:PROBLEM, Strategy:<Id:10, Metric:proc.num, Tags:map[name:mysqld], all(#1)==0 MaxStep:1, P0, MySQL挂了, <Id:9, Name:proc.mysql.alarm, ParentId:0, ActionId:8, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:mysqld], TS:2016-09-05 10:12:00>
+2016/09/05 10:13:46 reader.go:72: ======>>>>
+2016/09/05 10:13:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:OK, Strategy:<Id:10, Metric:proc.num, Tags:map[name:mysqld], all(#1)==0 MaxStep:1, P0, MySQL挂了, <Id:9, Name:proc.mysql.alarm, ParentId:0, ActionId:8, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:mysqld], TS:2016-09-05 10:13:00>
+2016/09/05 10:18:46 reader.go:72: ======>>>>
+2016/09/05 10:18:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:PROBLEM, Strategy:<Id:11, Metric:proc.num, Tags:map[name:redis-server], all(#1)==0 MaxStep:1, P0, , <Id:10, Name:proc.redis.alarm, ParentId:0, ActionId:9, Creator:root>>, Expression:<nil>, LeftValue:0, CurrentStep:1, PushedTags:map[name:redis-server], TS:2016-09-05 10:18:00>
+2016/09/05 10:19:46 reader.go:72: ======>>>>
+2016/09/05 10:19:46 reader.go:73: <Endpoint:tony-System-Product-Name, Status:OK, Strategy:<Id:11, Metric:proc.num, Tags:map[name:redis-server], all(#1)==0 MaxStep:1, P0, , <Id:10, Name:proc.redis.alarm, ParentId:0, ActionId:9, Creator:root>>, Expression:<nil>, LeftValue:1, CurrentStep:1, PushedTags:map[name:redis-server], TS:2016-09-05 10:19:00>
