@@ -1,5 +1,0 @@
-method: post
-params:
-  - content: Hello Tony,这是测试邮件
-  - subject: 测试邮件
-  - tos: tony.mai@kaoala.com
